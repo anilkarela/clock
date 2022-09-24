@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color:rgb(238, 235, 235);
+    height: 400px;
+    width: 60%;
+    box-shadow:2px 4px 4px #ccc;
+}
+.display-4{
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#timendate{
+    /* line-height:400px; */
+    text-align: center;
+    padding-top: 20px;
+}
+#loc{
+    text-align: center;
+}
